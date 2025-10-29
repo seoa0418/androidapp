@@ -7,13 +7,13 @@
 ##  W03 Compose Coffee
 <img src="https://github.com/user-attachments/assets/f29ff46d-9d1d-4d6c-9a34-fcf1a3d4c44b" width="250" />
 
-**기능**  
+ 
 - 우송대 앞에 위치한 컴포즈 커피를 소개합니다
 
 ---
 
 ##  W04 나의 프로필
-**기능**  
+
 - 이름과 관심사 등을 간단하게 적어둔 프로필 입니다!
 
 ---
@@ -21,7 +21,7 @@
 ##  W05 Stopwatch
 <img src="https://github.com/user-attachments/assets/134786bf-22a1-47c6-9a92-f0bdfeea2014" width="250" />
 
-**기능**  
+ 
 - 밀리세컨드 단위까지 시간이 표시됩니다! (00:00:00)  
 - 시작 버튼과 리셋 버튼이 있습니다!
 - 간단한 UI 구성입니다!
